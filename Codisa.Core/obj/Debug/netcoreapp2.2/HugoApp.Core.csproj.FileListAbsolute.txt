@@ -1,0 +1,9 @@
+C:\Users\trecsalaza\Desktop\Codisa\Codisa\Codisa.Core\bin\Debug\netcoreapp2.2\HugoApp.Core.deps.json
+C:\Users\trecsalaza\Desktop\Codisa\Codisa\Codisa.Core\bin\Debug\netcoreapp2.2\HugoApp.Core.dll
+C:\Users\trecsalaza\Desktop\Codisa\Codisa\Codisa.Core\bin\Debug\netcoreapp2.2\HugoApp.Core.pdb
+C:\Users\trecsalaza\Desktop\Codisa\Codisa\Codisa.Core\obj\Debug\netcoreapp2.2\HugoApp.Core.csprojAssemblyReference.cache
+C:\Users\trecsalaza\Desktop\Codisa\Codisa\Codisa.Core\obj\Debug\netcoreapp2.2\HugoApp.Core.csproj.CoreCompileInputs.cache
+C:\Users\trecsalaza\Desktop\Codisa\Codisa\Codisa.Core\obj\Debug\netcoreapp2.2\HugoApp.Core.AssemblyInfoInputs.cache
+C:\Users\trecsalaza\Desktop\Codisa\Codisa\Codisa.Core\obj\Debug\netcoreapp2.2\HugoApp.Core.AssemblyInfo.cs
+C:\Users\trecsalaza\Desktop\Codisa\Codisa\Codisa.Core\obj\Debug\netcoreapp2.2\HugoApp.Core.dll
+C:\Users\trecsalaza\Desktop\Codisa\Codisa\Codisa.Core\obj\Debug\netcoreapp2.2\HugoApp.Core.pdb

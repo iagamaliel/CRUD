@@ -1,0 +1,14 @@
+C:\Users\trecsalaza\Desktop\Codisa\Codisa\Codisa.Infrastructure\bin\Debug\netcoreapp2.2\HugoApp.Infrastructure.deps.json
+C:\Users\trecsalaza\Desktop\Codisa\Codisa\Codisa.Infrastructure\bin\Debug\netcoreapp2.2\HugoApp.Infrastructure.dll
+C:\Users\trecsalaza\Desktop\Codisa\Codisa\Codisa.Infrastructure\bin\Debug\netcoreapp2.2\HugoApp.Infrastructure.pdb
+C:\Users\trecsalaza\Desktop\Codisa\Codisa\Codisa.Infrastructure\bin\Debug\netcoreapp2.2\HugoApp.Core.dll
+C:\Users\trecsalaza\Desktop\Codisa\Codisa\Codisa.Infrastructure\bin\Debug\netcoreapp2.2\System.Data.SqlClient.dll
+C:\Users\trecsalaza\Desktop\Codisa\Codisa\Codisa.Infrastructure\bin\Debug\netcoreapp2.2\HugoApp.Core.pdb
+C:\Users\trecsalaza\Desktop\Codisa\Codisa\Codisa.Infrastructure\bin\Debug\netcoreapp2.2\System.Data.SqlClient.xml
+C:\Users\trecsalaza\Desktop\Codisa\Codisa\Codisa.Infrastructure\obj\Debug\netcoreapp2.2\HugoApp.Infrastructure.csprojAssemblyReference.cache
+C:\Users\trecsalaza\Desktop\Codisa\Codisa\Codisa.Infrastructure\obj\Debug\netcoreapp2.2\HugoApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\trecsalaza\Desktop\Codisa\Codisa\Codisa.Infrastructure\obj\Debug\netcoreapp2.2\HugoApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\trecsalaza\Desktop\Codisa\Codisa\Codisa.Infrastructure\obj\Debug\netcoreapp2.2\HugoApp.Infrastructure.AssemblyInfo.cs
+C:\Users\trecsalaza\Desktop\Codisa\Codisa\Codisa.Infrastructure\obj\Debug\netcoreapp2.2\HugoApp.Infrastructure.csproj.CopyComplete
+C:\Users\trecsalaza\Desktop\Codisa\Codisa\Codisa.Infrastructure\obj\Debug\netcoreapp2.2\HugoApp.Infrastructure.dll
+C:\Users\trecsalaza\Desktop\Codisa\Codisa\Codisa.Infrastructure\obj\Debug\netcoreapp2.2\HugoApp.Infrastructure.pdb

@@ -1,0 +1,43 @@
+﻿@model IEnumerable<HugoApp.Infrastructure.ParamsDTO.PersonDto>
+
+<p>
+    @Html.ActionLink("New Person", "NewPerson")
+</p>
+
+<input type="text" class="form-control form-control-sm m-b-xs" id="filter"
+       placeholder="Filter Prefix ...">
+<table class="footable table table-stripped" id="table" data-page-size="10" data-filter=#filter>
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Surname</th>
+            <th data-sort-ignore="true">Acciones</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Surname)
+                </td>
+                <td>
+                    @Html.ActionLink("Editar", "EditPerson", item) |
+                    @Html.ActionLink("Eliminar", "DeletePerson", new { id = item.Id })
+                </td>
+            </tr>
+        }
+    </tbody>
+    <tfoot>
+        <tr>
+            <td colspan="7">
+                <ul class="pagination float-right"></ul>
+            </td>
+        </tr>
+    </tfoot>
+</table>
+
+
